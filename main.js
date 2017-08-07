@@ -16,6 +16,6 @@ console.log(data);
     let basic = '';
     basic += `${data.bio}`
     aboutme.innerHTML = basic;
-    let picture = `<img src=${data.avatar_url}>`
+    let picture = `<img src=${data.avatar_url} alt='profile pic'>`
     propic.innerHTML = picture;
   };
