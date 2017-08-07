@@ -8,6 +8,7 @@ body{
   border: 1px;
   border-color: #3e4042;
   border-style: solid;
+  min-width: 700px;
 }
 .header{
   background: linear-gradient(-45deg, #ffffff 16px, transparent 0), linear-gradient(45deg, #ffffff 16px, transparent 0);
