@@ -14,7 +14,6 @@ body{
   background-position: bottom;
          background-repeat: repeat-x;
          background-size: 32px 32px;
-         content: " ";
          width: 100%;
          height: 32px;
          background-color: #3e4042;
@@ -52,7 +51,8 @@ color: gray;
   color: gray;
 }
 .pic{
-  padding:50px;
+  padding-top: 50px;
+  padding-left:50px;
 }
 img{
   border-radius: 80px;
